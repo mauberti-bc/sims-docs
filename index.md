@@ -1,35 +1,30 @@
 ---
-title: Home
+title: Species Inventory Management System
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+This site provides guidance and resources for using the Species Inventory Management System (SIMS).
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+SIMS is a web application for collaboratively managing ecological data in British Columbia. It is designed to support biologists by making it easy to manage and share information about ecological surveys, species observations, and individual animals being monitored through time.
 
-More specifically, the created site:
+# Plan your surveys
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+You can use SIMS to help plan ecological surveys. Drag-and-drop shapefiles to import your sampling locations and describe how and when you intend to sample at each site. Then visualize your whole sampling plan on interactive maps and export your information to bring into the field. After your survey, just update any information that has changed and load your survey results.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+# Co-manage data
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Ecological data is managed in collaborative workspaces called Projects. When you make a Project, you can invite other users and grant them edit or read-only permissions. This feature makes it easy to share information without worrying whether the file you received by email is outdated.
 
-To get started with creating a site, simply:
+You can upload detailed information about sampling locations, methods, and time periods, in addition to species observations, habitat feature observations, and data from individual animals. Attach photos, videos, or documents for your team members to download and for others to more easily interpret your work.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+# Access data
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+You can access your data through the [_simsbc_](https://github.com/bcgov/simsbc) R package. Updates to data in SIMS are immediately reflected in the data that _simsbc_ returns, enabling real-time analytics, dashboards, and other R Shiny applications.
 
-----
+# Automate report writing
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+You can also use the [_simsbc_](https://github.com/bcgov/simsbc) R package to automate report writing. After uploading data to SIMS, _simsbc_ can build Word documents with beautiful maps, plots, and tables of your data to save you time and minimize errors.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+# Share data
+
+When you're ready for others to see your work, just click publish!
