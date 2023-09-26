@@ -1,5 +1,24 @@
-title: Species Inventory Management System
-description: Documentation on the Species Inventory Management System
+title: SIMS
+description: Documentation for the Species Inventory Management System
 theme: just-the-docs
 
 url: https://mauberti-bc.github.io/sims-docs
+
+callouts_level: quiet
+callouts:
+  note:
+    title: Note
+    color: purple
+  information:
+    title: Information
+    color: blue
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache

@@ -1,30 +1,36 @@
 ---
-title: Species Inventory Management System
-layout: home
+layout: default
+title: Home
+nav_order: 1
+permalink: /
 ---
 
-This site provides guidance and resources for using the Species Inventory Management System (SIMS).
+# Species Inventory Management System
 
-SIMS is a web application for collaboratively managing ecological data in British Columbia. It is designed to support biologists by making it easy to manage and share information about ecological surveys, species observations, and individual animals being monitored through time.
+### Collaboratively manage biodiversity data
 
-# Plan your surveys
+The Species Inventory Management System is a web application for managing fish and wildlife data in British Columbia. It is designed to make it easy to organize and share information about ecological surveys, species observations, and individual animals with team members from multiple agencies, including First Nations, industry, and consultancies.
 
-You can use SIMS to help plan ecological surveys. Drag-and-drop shapefiles to import your sampling locations and describe how and when you intend to sample at each site. Then visualize your whole sampling plan on interactive maps and export your information to bring into the field. After your survey, just update any information that has changed and load your survey results.
+{: .note }
 
-# Co-manage data
+> The Species Inventory Management System is under development. Some features described on this site are not yet available.
 
-Ecological data is managed in collaborative workspaces called Projects. When you make a Project, you can invite other users and grant them edit or read-only permissions. This feature makes it easy to share information without worrying whether the file you received by email is outdated.
+### Usage
 
-You can upload detailed information about sampling locations, methods, and time periods, in addition to species observations, habitat feature observations, and data from individual animals. Attach photos, videos, or documents for your team members to download and for others to more easily interpret your work.
+- Submit fish and wildlife data
+- Plan and manage ecological surveys
+- Visualize biodiversity data and sampling information
+- Collaborate across organizations
+- Discover ecological projects and build partnerships
 
-# Access data
+### Get Started
 
-You can access your data through the [_simsbc_](https://github.com/bcgov/simsbc) R package. Updates to data in SIMS are immediately reflected in the data that _simsbc_ returns, enabling real-time analytics, dashboards, and other R Shiny applications.
+The Species Inventory Management System is available to biologists working in collaboration with the Province of British Columbia.
 
-# Automate report writing
+[Learn more about how to start]()
 
-You can also use the [_simsbc_](https://github.com/bcgov/simsbc) R package to automate report writing. After uploading data to SIMS, _simsbc_ can build Word documents with beautiful maps, plots, and tables of your data to save you time and minimize errors.
+### Build further
 
-# Share data
+You can build real-time dashboards and complementary web applications that integrate your data using the [_simsbc_ R package](https://bcgov.github.io/simsbc/) or Species Inventory Management System's API (documentation under development).
 
-When you're ready for others to see your work, just click publish!
+Interested in building a dashboard but not sure where to start? [Contact us]()
