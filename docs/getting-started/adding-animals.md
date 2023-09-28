@@ -14,7 +14,7 @@ You can add Marked or Known Animals to your Survey to manage data about individu
 
 When you add a new Marked or Known Animal to your Survey, you can create an Alias to easily reference that animal across different Surveys. You should think of an Alias as a unique username, like `@CARIBOU18`.
 
-Behind the scenes, there is a more robust identifer that the system uses to identify individuals: Critter ID. A Critter ID is a long sequences of letters and numbers that never change, unlike Aliases which you can update.
+Behind the scenes, there is a more robust identifer that the system uses to identify individuals: Critter ID. A Critter ID is a long sequence of letters and numbers that will never change, unlike Aliases which you can update.
 
 {: .note }
 
@@ -32,6 +32,8 @@ An animal can have a variety of attributes, including information about:
 - Family relationships
 
 Data about ecological units, measurements, and markings are species-dependent. This means that you can't enter the wing length of a bear, the front left paw width of a bird, or other puzzling information.
+
+If you don't see an ecological unit or measurement that is important for your Survey, please [contact us](). System administrators manage the list of species-dependent attributes and can easily add new options.
 
 ### Integrating Wildlife Health IDs
 
