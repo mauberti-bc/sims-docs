@@ -3,14 +3,14 @@ layout: default
 title: Create Projects
 nav_order: 2
 parent: Getting Started
-permalink: /docs/getting-started/create-project
+permalink: /docs/getting-started/create-projects
 ---
 
 # Create Projects
 
 Projects are the starting point for uploading and co-managing ecological data. All information from organized surveys in the Species Inventory Management System belongs to a Project.
 
-### Collaborative Workspaces
+### Collaborative workspaces
 
 A Project is a collaborative workspace containing Surveys and members. You can think of Projects and Surveys like folders and subfolders, respectively. Members are people with access to those subfolders.
 
@@ -24,7 +24,7 @@ If the scope of your Project changes, you can always update your Project's objec
 
 {: .note }
 
-You should create a new Survey for every distinct ecological activity. The [Create Surveys](/docs/getting-started/create-survey) page has more information about when and how to create a new Survey.
+You should create a new Survey for every distinct ecological activity. The [Create Surveys](/docs/getting-started/create-surveys) page has more information about when and how to create a new Survey.
 
 ### Invite Project members
 
@@ -49,6 +49,6 @@ The Observer role lets other users view data in your Project without the ability
 <a class="float-left" href="./sign-up">
 Previous: Sign Up
 </a>
-<a class="float-right" href="./create-survey">
+<a class="float-right" href="./create-surveys">
 Next: Creating Surveys
 </a>

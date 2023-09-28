@@ -4,7 +4,7 @@ title: Sign Up
 nav_order: 1
 has_children: false
 parent: Getting Started
-permalink: /docs/getting-started/signing-up
+permalink: /docs/getting-started/sign-up
 ---
 
 # Sign Up
@@ -29,6 +29,6 @@ If your access request has not been actioned within 3 days, please email biohub@
 
 After signing up, your name and work email may be visible to other users in accordance with the [Information Privacy & Security Act (FOIPPA)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/foippa/information-privacy-and-security-foippa). You should **never** enter personal information, such as your home address and personal email address.
 
-<a class="float-right" href="sims-docs/docs/getting-started/create-project">
+<a class="float-right" href="./create-projects">
 Next: Create Projects
 </a>

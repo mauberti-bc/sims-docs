@@ -46,9 +46,9 @@ If you observed a species of interest during an organized survey, even if it was
 
 Unlike Survey Observations, Incidental Observations must have a location and time. Otherwise, Incidental Observations only include a species name and count, which isn't very useful.
 
-<a class="float-left" href="./add-animals">
-Previous: Add Animals
+<a class="float-left" href="./add-sampling-information">
+Previous: Add Sampling Information
 </a>
-<a class="float-right" href="./add-telemetry">
-Next: Add Telemetry
+<a class="float-right" href="./add-animals">
+Next: Add Animals
 </a>

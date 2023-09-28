@@ -3,7 +3,7 @@ layout: default
 title: Create Surveys
 nav_order: 3
 parent: Getting Started
-permalink: /docs/getting-started/create-survey
+permalink: /docs/getting-started/create-surveys
 ---
 
 # Create Surveys
@@ -38,9 +38,9 @@ Surveys contain descriptive metadata that gives context to the data in that Surv
 
 More detailed information about when, where, and how you collected data is captured in your [sampling information](/docs/getting-started/add-sampling-information).
 
-<a class="float-left" href="/docs/getting-started/create-projects">
+<a class="float-left" href="./create-projects">
 Previous: Create Project
 </a>
-<a class="float-right" href="/docs/getting-started/add-sampling-information">
+<a class="float-right" href="./add-sampling-information">
 Next: Add Sampling Information
 </a>

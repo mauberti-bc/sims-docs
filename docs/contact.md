@@ -7,4 +7,4 @@ permalink: /docs/contact
 
 # Contact Information
 
-General inquiries: spi_mail@gov.bc.ca
+biohub@gov.bc.ca

@@ -49,6 +49,6 @@ You can quickly enter a lot of sampling information by [uploading Sampling Locat
 <a class="float-left" href="./create-surveys">
 Previous: Create Surveys
 </a>
-<a class="float-right" href="./add-animals">
-Next: Add Animals
+<a class="float-right" href="./add-species-observations">
+Next: Add Species Observations
 </a>

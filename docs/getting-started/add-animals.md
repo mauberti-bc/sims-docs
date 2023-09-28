@@ -33,15 +33,15 @@ An animal can have a variety of attributes, including information about:
 
 Information about ecological units, measurements, and markings is species-dependent. This means that you can't enter the wing length of a bear, the paw width of a bird, or other puzzling information.
 
-If you don't see an ecological unit or measurement that you want to add, please [contact us](). System administrators manage the list of species-dependent attributes and can easily add new options.
+If you don't see an ecological unit or measurement that you want to add, please [contact us](/docs/contact). System administrators manage the list of species-dependent attributes and can easily add new options.
 
 ### Integrating Wildlife Health IDs
 
 We are collaborating with wildlife health biologists to let you reference Marked or Known Animals by their Wildlife Health ID, which is the identifier used in the BC Wildlife Health Program.
 
-<a class="float-left" href="./add-sampling-information">
-Previous: Add Sampling Information
+<a class="float-left" href="./add-species-observations">
+Previous: Add Species Observations
 </a>
-<a class="float-right" href="./add-species-observations">
-Next: Add Species Observations
+<a class="float-right" href="./add-telemetry-devices">
+Next: Add Telemetry Devices
 </a>
