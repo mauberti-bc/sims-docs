@@ -1,35 +1,46 @@
 ---
 layout: default
-title: Creating Surveys
+title: Create Surveys
 nav_order: 3
 parent: Getting Started
 permalink: /docs/getting-started/create-survey
 ---
 
-# **Creating Surveys**
+# Create Surveys
 
-Surveys store information about distinct ecological activities and are made to reflect true ecological surveys. As such, Surveys may contain sampling information, species observations, and uniquely marked animals.
+Surveys contain information about distinct work activities and are made to reflect true ecological surveys. As such, Surveys contain sampling information, species observations, files and documents, and potentially other data, like uniquely marked animals.
 
-## Sampling information
+### Surveys reflect true ecological surveys
 
-Sampling information includes locations, methods, and time periods, all of which are required to understand where, when, and how you collected data. Without sampling information, it is difficult to know how to best analyze your data.
+You should think of a Survey as a distinct event during which you collected data, typically with a clear start and end date. Conducting a week-long population count, deploying a set of camera traps for one month, and deploying a dozen telemetry devices are all events that you should create Surveys for.
 
-### Sampling locations
+Survey dates intend to capture the time period during which you actively worked towards achieving your Project's objectives, not your precise sampling time periods. The type of work that you do might influence how you interpret Survey start and end dates:
 
-A sampling location can be a point, like a camera trap, line, like an aerial transect, or polygon, like a grid cell.
+- If you collected all data during one fieldwork trip, your Survey start and end dates might be when you arrived at and departed from your fieldwork destination.
+- If you collected data during multiple nearby-in-time fieldwork trips, your Survey start and end dates might be the start of your first trip and end of your last trip.
+- If you collected data during multiple but very distinct fieldwork trips, consider creating multiple Surveys in the same Project.
 
-If there is ambiguity in whether you sampled a line or polygon, you should use the geometry type that makes the most sense given your objectives and sampling strategy. For example, if you walked a zigzag transect throughout a grid cell, your sampling location could be the transect or the grid cell.
+If your Survey is ongoing, you can leave the end date blank. Remember to update this information when you are ready.
 
-{: .note} We recommend only using polygonal sampling locations if you fully surveyed that area. Otherwise, consider using a line as your sampling location to more accurately reflect where you sampled.
+{: .note }
 
-## Sampling methods
+You'll be prompted to enter precise Sampling Periods as part of your [sampling information](/docs/getting-started/add-sampling-information).
 
-Sampling Methods describe how you collected data. You can add multiple Sampling Methods to a Sampling Location, which is useful if you measured multiple ecological variables. For example, you might conduct a point count for birds _and_ deploy an acoustic recording device at the same Sampling Location, which you would enter as two different methods, each with their own Sampling Periods.
+### Survey metadata
 
-{: .note } We are developing Sampling Method attributes that let you record more details about your method, such as the distance threshold over which you excluded species from your transect survey or whether you placed bait in front of your camera trap.
+Surveys contain descriptive metadata that gives context to the data in your Survey. Detailed metadata is important for others to easily discover your data and will help new colleagues and collaborators understand your work. Survey metadata includes:
 
-## Sampling Periods
+- Name and purpose
+- Permits and funding sources
+- Species of interest
+- Survey areas and participants
+- Sampling strategy
 
-Each Sampling Method can have multiple Sampling Periods describing the start and end time of your Survey.
+More detailed information about when, where, and how you collected data is captured in your [sampling information]().
 
-Sampling Periods are important to understand your sampling effort. Does your Survey not include any moose observations in the morning because there were no moose or you didn't sample then? This question is critical to get the most value out of your data.
+<a class="float-left" href="/docs/getting-started/create-projects">
+Previous: Create Project
+</a>
+<a class="float-right" href="/docs/getting-started/add-sampling-information">
+Next: Add Sampling Information
+</a>
