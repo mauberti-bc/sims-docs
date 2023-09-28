@@ -8,17 +8,17 @@ permalink: /docs/getting-started/create-project
 
 # Create Projects
 
-Projects are the starting point for uploading and co-managing ecological data. All information in the Species Inventory Management System belongs to a Project.
+Projects are the starting point for uploading and co-managing ecological data. All information from organized surveys in the Species Inventory Management System belongs to a Project.
 
 ### Collaborative Workspaces
 
 A Project is a collaborative workspace containing Surveys and members. You can think of Projects and Surveys like folders and subfolders, respectively. Members are people with access to those subfolders.
 
-Projects are distinguished by their objectives. You should create a Project for every distinct set of objectives that you have, such as monitoring the size of a specific caribou or grizzly bear population over multiple years.
+Projects are distinguished by their objectives. You should create a Project for every distinct set of objectives that you have, such as monitoring the size of a specific caribou herd or estimating the reproductive rate of a grizzly bear population.
 
 ### Organize related Surveys
 
-Projects don't directly store ecological data. Instead, they contain Surveys that _do_ store ecological data. A Survey can only belong to one Project and should contribute to its Project's objectives, as described in the Project's metadata.
+Projects don't directly store ecological data. Instead, they contain Surveys that _do_ store ecological data. A Survey can only belong to one Project and should contribute to that Project's objectives, as described in the Project's metadata.
 
 If the scope of your Project changes, you can always update your Project's objectives. You can also move Surveys between different Projects to restructure how your data are organized.
 
@@ -34,7 +34,7 @@ You can invite other members when editing the Project's metadata. Your colleague
 
 ### Project roles
 
-When you invite someone to your Project, you must give them one of the following roles:
+When you invite someone to your Project, you must give them one of the following roles to set their permissions:
 
 - Coordinator
 - Collaborator
@@ -46,9 +46,9 @@ The Collaborator role is the second most powerful. Collaborators can add and edi
 
 The Observer role lets other users view data in your Project without the ability to edit or delete.
 
-<a class="float-left" href="/docs/getting-started/sign-up">
+<a class="float-left" href="./sign-up">
 Previous: Sign Up
 </a>
-<a class="float-right" href="/docs/getting-started/create-survey">
+<a class="float-right" href="./create-survey">
 Next: Creating Surveys
 </a>

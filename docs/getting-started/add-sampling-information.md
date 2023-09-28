@@ -26,15 +26,15 @@ We recommend only using polygonal sampling locations if you fully surveyed that 
 
 ### Sampling Methods
 
-A Sampling Method describes how you collected data at a Sampling Location. You can add multiple Sampling Methods to a Sampling Location, which is useful if you measured multiple ecological variables at a site. For instance, you might have conducted an hour-long point count for birds _and_ deployed an acoustic recording device for 10 days at the same Sampling Location.
+A Sampling Method describes how you collected data at a Sampling Location. You can add multiple Sampling Methods to a Sampling Location, which is useful if you measured multiple ecological variables at a site. For instance, you might have conducted an hour-long point count for birds _and_ deployed an acoustic recording device at the same Sampling Location.
 
-You can enter additional method-dependent attributes to a Sampling Method. For example, if your method is Distance Transect, you can enter the distance threshold over which you excluded species from your transect. Alternatively, if your method is Camera Trap, you can enter information about the bait that you used, if any.
+You can enter additional method-dependent attributes to a Sampling Method to capture important details. For example, if your method is Distance Transect, you can enter the distance threshold over which you excluded species from your transect. Similarly, if your method is Camera Trap, you can enter information about the bait that you placed in front of the camera, if any.
 
 ### Sampling Periods
 
-A Sampling Period decribes when exactly a Sampling Method was done. You can add multiple Sampling Periods to a Sampling Method in case your sampling was paused, either intentionally as part of your Sampling Method or for a different reason like poor weather.
+A Sampling Period decribes when exactly a Sampling Method was done. You can add multiple Sampling Periods to a Sampling Method in case you paused sampling, either intentionally as part of your Sampling Method or for a different reason like poor weather.
 
-It is important to enter precise Sampling Periods to understand your sampling effort. Did you not detect black bears after lunch because there were no black bears or you just weren't sampling then?
+It is important to enter precise Sampling Periods to understand your sampling effort. Did you not observe black bears before lunch because there were no black bears or you didn't sample then? Being able to answer this question in your own context will allow for more valuable insights from your data.
 
 ### Sampling information is hierarchical
 
@@ -46,9 +46,9 @@ You can quickly enter a lot of sampling information by [uploading Sampling Locat
 - If only some of your Sampling Locations have the same Sampling Methods and Sampling Periods, you can group similar Sampling Locations into [spatial files and bulk upload each file separately]().
 - If your Sampling Locations differ only in their Sampling Periods, you can bulk upload Sampling Locations and [edit the Sampling Periods]().
 
-<a class="float-left" href="/docs/getting-started/create-surveys">
+<a class="float-left" href="./create-surveys">
 Previous: Create Surveys
 </a>
-<a class="float-right" href="/docs/getting-started/add-animals">
+<a class="float-right" href="./add-animals">
 Next: Add Animals
 </a>
