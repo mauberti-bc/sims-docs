@@ -17,7 +17,7 @@ You should think of a Survey as a distinct event during which you collected data
 Survey dates intend to capture the time period during which you actively worked towards achieving your Project's objectives, not your precise sampling time periods. The type of work that you do might influence how you interpret Survey start and end dates:
 
 - If you collected all data during one fieldwork trip, your Survey start and end dates might be when you arrived at and departed from your fieldwork destination.
-- If you collected data during multiple nearby-in-time fieldwork trips, your Survey start and end dates might be the start of your first trip and end of your last trip.
+- If you collected data during multiple fieldwork trips in quick succession, your Survey start and end dates might be the start of your first trip and end of your last trip.
 - If you collected data during multiple but very distinct fieldwork trips, consider creating multiple Surveys in the same Project.
 
 If your Survey is ongoing, you can leave the end date blank. Remember to update this information when you are ready.
@@ -28,7 +28,7 @@ You'll be prompted to enter precise Sampling Periods as part of your [sampling i
 
 ### Survey metadata
 
-Surveys contain descriptive metadata that gives context to the data in your Survey. Detailed metadata is important for others to easily discover your data and will help new colleagues and collaborators understand your work. Survey metadata includes:
+Surveys contain descriptive metadata that gives context to the data in that Survey. Detailed metadata is important for others to easily discover your data and will help new colleagues and collaborators understand your work. Survey metadata includes:
 
 - Name and purpose
 - Permits and funding sources
