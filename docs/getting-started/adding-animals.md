@@ -14,7 +14,7 @@ You can add Marked or Known Animals to your Survey to manage data about individu
 
 When you add a new Marked or Known Animal to your Survey, you can create an Alias to easily reference that animal across different Surveys. You should think of an Alias as a unique username, like `@CARIBOU18`.
 
-Behind the scenes, there is a more robust identifer that the system uses to identify individuals: Critter ID. Critter IDs are long sequences of letters and numbers that never change, unlike Aliases which you can update.
+Behind the scenes, there is a more robust identifer that the system uses to identify individuals: Critter ID. A Critter ID is a long sequences of letters and numbers that never change, unlike Aliases which you can update.
 
 {: .note }
 

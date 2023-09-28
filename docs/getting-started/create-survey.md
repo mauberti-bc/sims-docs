@@ -36,7 +36,7 @@ Surveys contain descriptive metadata that gives context to the data in that Surv
 - Survey areas and participants
 - Sampling strategy
 
-More detailed information about when, where, and how you collected data is captured in your [sampling information]().
+More detailed information about when, where, and how you collected data is captured in your [sampling information](/docs/getting-started/add-sampling-information).
 
 <a class="float-left" href="/docs/getting-started/create-projects">
 Previous: Create Project
