@@ -7,11 +7,11 @@ permalink: /docs/projects
 
 # Projects
 
-Projects are collaborative workspaces for co-managing data from ecological surveys. We recommend reading [Create Projects](/docs/getting-started/create-projects) in the [Getting Started](/docs/getting-started) section before diving into the details of a Project, which this page provides.
+Projects are collaborative workspaces for co-managing data from ecological surveys. We recommend reading [Create Projects](/docs/getting-started/create-projects) in the [Getting Started](/docs/getting-started) section before diving into the details of a Project.
 
-When you create a Project, you and your Project team are responsible for managing that Project. You are also responsible for maintaining the accuracy of information in your Project, and for deciding when to [share that information publicly]().
+When you create a Project, you and your team are responsible for managing the information in that Project. As you adjust the expected outcomes and objectives of your work, you should update your Project's details to include the latest, most accurate information. Outdated or misleading information might confuse people who want to build upon your work.
 
-This page describes the various attributes that a Project can have to help you identify valuable aspects of the system. We suggest reading about each attribute, even if its definition seems obvious, to better understand a Project's structure.
+This page defines the attributes that a Project has to help you manage Projects effectively. We suggest reading about each attribute, even if its definition seems obvious, to better understand a Project's structure.
 
 {: .note }
 
@@ -21,9 +21,9 @@ We suggest reading all of the [Getting Started]() section for an introduction to
 
 ##### Project ID
 
-> A unique ID that identifies a Project.
+> A unique ID that identifies a Project
 
-Every Project is automatically assigned a unique Project ID. Project IDs are positive integers, like 1, 2, 3, and so on. You can find your Project's ID in the browser URL when viewing that Project. For example, _sims.nrs.gov.bc.ca/admin/projects/1/details_ is Project ID 1.
+Every Project is automatically assigned a unique Project ID. Project IDs are positive integers. You can find a Project's ID in the browser URL when viewing that Project. For example, _sims.nrs.gov.bc.ca/admin/projects/1/details_ is Project ID 1.
 
 #### Example
 
@@ -33,9 +33,9 @@ Every Project is automatically assigned a unique Project ID. Project IDs are pos
 
 ##### Name
 
-> A descriptive label that identifies a Project and alludes to its objectives.
+> A descriptive label that identifies a Project and alludes to its objectives
 
-Every Project has a unique name that distinguishes it from other Projects. You should give your Projects concise yet informative names. We recommend including the species, region, and any relevant keywords in the name.
+Every Project has a unique name that distinguishes it from other Projects. You should give your Projects concise yet informative names. We recommend including the species, region, and other keywords in the name.
 
 #### Example
 
@@ -45,21 +45,21 @@ Fernie Grizzly Bear Population Monitoring
 
 ##### Objectives
 
-> A brief summary about what you intend to achieve in your Project.
+> A brief summary about what you intend to achieve in your Project
 
 Objectives should include one or two sentences describing your expected outcomes and goals.
 
 #### Example
 
-Estimate the number of grizzly bears in Fernie and adjacent areas, annually, to support human-wildlife conflict mitigation.
+Estimate the number of grizzly bears in and around Fernie annually to support human-wildlife conflict mitigation
 
 ---
 
 ##### Program
 
-> The general business area of your work: fish, wildlife, or bioterrain.
+> The general business area of your work: Fish, Wildlife, or Other
 
-Program information is used to organize Projects in a way that makes them easy to search and discover.
+Program information is used to organize Projects in a way that makes them easy to search and discover. Assigning Projects to the Fish and/or Wildlife programs helps relevant teams find your work.
 
 #### Example
 
@@ -69,9 +69,9 @@ Wildlife
 
 ##### Start Date
 
-> The date when your Project began.
+> The date when your Project began
 
-A Project's Start Date can be approximate, but they should occur in the correct fiscal year.
+A Project's Start Date can be approximate, but it should occur in the correct fiscal year when you initiated your Project.
 
 #### Example
 
@@ -83,7 +83,7 @@ January 3, 2022
 
 > The date when your Project ended
 
-A Project's End Date can be approximate, and it may also often be left blank if the Project is ongoing. As collaborative workspaces, Projects are not expected to have end dates in the same way that [Surveys]() do.
+A Project's End Date can be approximate and may be left blank if the Project is ongoing. As collaborative workspaces, Projects are not expected to have end dates in the same way that [Surveys]() do.
 
 #### Example
 
@@ -91,11 +91,11 @@ March 20, 2023
 
 ---
 
-##### Team Members
+##### Members
 
-> Users who have been granted access to the Project.
+> Users who have been granted access to the Project
 
-Team Members can view all information in a Project. A person must first gain access to the system before they can be invited to a Project. Every Team Member must have a role.
+Project Members can view all information in a Project. A person must gain access to the system before they can be invited to a Project.
 
 #### Example
 
@@ -103,11 +103,11 @@ John Doe
 
 ---
 
-##### Team Member's Role
+##### Roles
 
-> A role assigned to a user that determines their permissions in the Project.
+> Titles assigned to Project Members that determine their permissions in the Project
 
-Only Team Members with the Coordinator or Collaborator role can edit information. Only Members with the Coordinator role can manage the list of Team Members and delete the Project.
+Available roles are Coordinator, Collaborator, and Observer. Coordinators can upload and edit data, manage the members of a Project, and even delete the Project. Collaborators can add and edit data but cannot manage the list of Project members nor delete the Project. Observers can only view data.
 
 #### Example
 
