@@ -8,7 +8,7 @@ permalink: /docs/getting-started/add-animals
 
 # Add Animals
 
-You can add Marked or Known Animals to your Survey to manage data about individuals that you have captured, measured, or are monitoring over time. You should think of this process as creating a profile for an individual animal that you can reference in various contexts, including Species Observations.
+You can add Marked or Known Animals to your Survey to manage data about individuals that you have captured, measured, or ned to monitor over time.
 
 ### Animals receive unique identifiers
 
@@ -19,6 +19,10 @@ Behind the scenes, there is a more robust identifer that the system uses to iden
 {: .note }
 
 You should add a new Marked or Known Animal for every unique individual that you have captured, marked, measured, or confirmed the mortality of.
+
+### Add new or existing animals
+
+When you add a new animal for the first time, you are creating a profile for an individual that anybody can reference in various contexts, including Species Observations. You can think of this
 
 ### Animal attributes are species-dependent
 

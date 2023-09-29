@@ -8,7 +8,7 @@ permalink: /docs/getting-started/create-projects
 
 # Create Projects
 
-Projects are the starting point for uploading and co-managing ecological data. All information from organized surveys in the Species Inventory Management System belongs to a Project.
+Projects are the starting point for uploading and co-managing ecological data. All information that you can upload and manage belongs to a Project.
 
 ### Collaborative workspaces
 

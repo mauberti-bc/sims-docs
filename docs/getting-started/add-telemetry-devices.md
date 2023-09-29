@@ -14,7 +14,7 @@ You can add Telemetry Devices to [Marked or Known Animals](/docs/getting-started
 
 When you add a Telemetry Device, the Species Inventory Management System forwards the device information to the BC Telemetry Warehouse. The BC Telemetry Warehouse then automatically retrieves data from your devices daily, which you can view, interact with, and export through Species Inventory Management System.
 
-At the end of your Telemetry Device's deployment, you can remove it from a Known or Marked Animal. This makes that Telemetry Device available to be added to a new Marked or Known Animal by any other user, in any Survey. While a Telemetry Device is deployed in the system, it cannot be added to another animal at the same time.
+At the end of your Telemetry Device deployment, you can detach the Device from a Known or Marked Animal. This makes that Telemetry Device available to be added to a new Marked or Known Animal by any other user, in any Survey. While a Telemetry Device is deployed, it cannot be added to another animal during the same time.
 
 ### Compatible devices
 
@@ -23,11 +23,11 @@ The BC Telemetry Warehouse works for most GPS devices from the following manufac
 - Vectronic
 - Lotek
 
-[You can manually add telemetry data from other devices]().
+The system cannot automatically retrieve data from other device manufacturers, but you can still [add telemetry data from other manufacturers manually]().
 
 ### Report mortalities
 
-If a Known or Marked Animal has died, you should [report its mortality](), which involves entering the suspected mortality date, location, and other details.
+If a Known or Marked Animal has died, you should [report its mortality](). This involves entering the suspected mortality date, location, and other details.
 
 <a class="float-left" href="./add-animals">
 Previous: Add Animals
