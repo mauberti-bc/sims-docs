@@ -9,7 +9,7 @@ permalink: /docs/surveys
 
 Surveys represent distinct events during which you collected data, often reflecting true ecological surveys. We recommend reading [Create Surveys](/docs/getting-started/create-projects) in the [Getting Started](/docs/getting-started) section before reading about the exact information in a Survey.
 
-To start managing data in the Species Inventory Management System, you upload it to a Survey. A Survey's details give important context to the data it contains by describing your focal species, parts of your sampling strategy, and who participated.
+To start managing data, you'll create a Survey. Surveys have metadata that gives important context to the data they contain. For example, Survey metadata describes your focal species, parts of your sampling strategy, and who participated.
 
 This page defines the attributes that a Survey can have. We recommend reading about each attribute, even if its definition seems obvious, to better understand how to create informative Surveys.
 
@@ -43,35 +43,23 @@ Fernie Grizzly Bear Population Monitoring 2021 Count
 
 ---
 
-##### Purpose
+##### Type
 
-> A brief summary about what you intend to estimate or measure
+> A set of categories describing the nature of your work
 
-The Purpose should include one or two sentences describing why exactly you did the Survey and your expected outcomes. A Survey's Purpose is often more tangible than its Project's objectives.
-
-#### Example
-
-2021 count of grizzly bears in and around Fernie to estimate the population growth rate
-
----
-
-##### Program
-
-> The general business area of your work: Fish, Wildlife, or Other
-
-Program information is used to organize Projects in a way that makes them easy to search and discover. Assigning Projects to the Fish and/or Wildlife programs helps relevant teams find your work.
+Types are labels that help you organize your Surveys and help others discover Surveys of interest. They aim to distinguish the different types of ecological work, such as research, monitoring, and salvage.
 
 #### Example
 
-Wildlife
+Habitat Restoration & Enhancement, Salvage, and Monitoring
 
 ---
 
 ##### Start Date
 
-> The date when your Project began
+> The date when your Survey began
 
-A Project's Start Date can be approximate, but it should occur in the correct fiscal year when you initiated your Project.
+A Survey's Start Date should be as accurate as possible. You can include travel days and planning effort in determining your Start Date, depending on the nature of your Survey.
 
 #### Example
 
@@ -81,9 +69,9 @@ January 3, 2022
 
 ##### End Date
 
-> The date when your Project ended
+> The date when your Survey ended
 
-A Project's End Date can be approximate and may be left blank if the Project is ongoing. As collaborative workspaces, Projects are not expected to have end dates in the same way that [Surveys]() do.
+A Survey's End Date should be as accurate as possible. You can include travel days and planning effort in determining your End Date, depending on the nature of your Survey.
 
 #### Example
 
@@ -91,24 +79,74 @@ March 20, 2023
 
 ---
 
-##### Members
+##### Primary Species of Interest
 
-> Users who have been granted access to the Project
+> Target species that you surveying for
 
-Project Members can view all information in a Project. A person must gain access to the system before they can be invited to a Project.
+This field is used to help you and others find and interpret relevant Surveys. If you were interested in numerous species, you can select each species separately or select the lowest-ranking taxonomic group that includes your target species.
+
+It is assumed that you have reported all observations of your Primary Species of Interest.
 
 #### Example
 
-John Doe
+Black bear (_Ursus americanus_)
 
 ---
 
-##### Roles
+##### Secondary Species of Interest
 
-> Titles assigned to Project Members that determine their permissions in the Project
+> Species that are relevant but not the focus of your work
 
-Available roles are Coordinator, Collaborator, and Observer. Coordinators can upload and edit data, manage the members of a Project, and even delete the Project. Collaborators can add and edit data but cannot manage the list of Project members nor delete the Project. Observers can only view data.
+This is an optional field that allows you to enter species that are relevant but that you are not surveying for. If you were interested in numerous species, you can select each species separately or select the lowest-ranking taxonomic group that includes your target species.
 
 #### Example
 
-Coordinator
+Grizzly bear (_Ursus arctos_)
+
+---
+
+##### Permits
+
+> Permits that allowed you to collect data or otherwise do your Survey
+
+Permitting agencies may use this field to confirm that data has been submitted where it is mandatory.
+
+#### Example
+
+8361637
+
+---
+
+##### Purpose
+
+> A brief summary about what you intend to estimate or measure
+
+The Purpose should include one or two sentences describing why exactly you did the Survey and what your expected outcomes are. A Survey's Purpose is often more tangible than its Project's objectives.
+
+#### Example
+
+2021 count of grizzly bears in and around Fernie to estimate the population growth rate
+
+---
+
+##### Ecological Variables
+
+> Ecological dynamics and phenomena that are relevant to your work
+
+This field helps you organize Surveys that focus on different ecological processes, such as Birth Rates or Recruitment, Species Distributions, and Species Density. This field also helps others find relevant Surveys.
+
+#### Example
+
+Birth Rates or Recruitment
+
+---
+
+##### Survey Participants
+
+> People who contributed to your Survey, either as a biologist or in a supporting role
+
+Adding colleagues as Survey Participants allows for users to easily find Surveys that they contributed to. When you add a Survey Participant, you must also add a Job Title to specify how they contributed. Job Titles include Lead Biologist, Biologist, and Pilot, among other options.
+
+#### Example
+
+Jane Doe, Biologist

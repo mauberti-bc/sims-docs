@@ -18,7 +18,7 @@ Sampling Locations describe where you sampled and may have any of the following 
 - Line, like a transect
 - Polygon, like a grid cell
 
-There might be ambiguity in the geometry type of your Sampling Location. For instance, if you walked a zigzag transect through a grid cell, your Sampling Location could be the transect or the grid cell, depending on how much of the grid cell you covered. We suggest using the geometry type that makes the most sense given your objectives and sampling strategy.
+There might be ambiguity in the geometry type of your Sampling Location. For instance, if you walked a zigzag transect through a grid cell, your Sampling Location could be the transect or the grid cell, depending on how much of the grid cell you covered. You should use the geometry type that makes the most sense given your objectives and sampling strategy.
 
 {: .note}
 
@@ -28,11 +28,11 @@ We recommend only using polygonal sampling locations if you fully surveyed that 
 
 A Sampling Method describes how you collected data at a Sampling Location. You can add multiple Sampling Methods to a Sampling Location, which is useful if you measured multiple ecological variables at a site. For instance, you might have conducted an hour-long point count for birds _and_ deployed an acoustic recording device at the same Sampling Location.
 
-You can enter additional method-dependent attributes to a Sampling Method to capture important details. For example, if your method is Distance Transect, you can enter the distance threshold over which you excluded species from your transect. Similarly, if your method is Camera Trap, you can enter information about the bait that you placed in front of the camera, if any.
+You can add additional information to a Sampling Method to capture important details. For example, if your method is Distance Transect, you can enter the distance threshold over which you excluded species from your transect. Similarly, if your method is Camera Trap, you can enter information about the bait that you placed in front of the camera, if any.
 
 ### Sampling Periods
 
-A Sampling Period decribes when exactly a Sampling Method was done. You can add multiple Sampling Periods to a Sampling Method in case you paused sampling, either intentionally as part of your Sampling Method or for a different reason like poor weather.
+A Sampling Period decribes when exactly you conducted a Sampling Method. You can add multiple Sampling Periods to a Sampling Method in case you paused sampling, either intentionally as part of your Sampling Method or for a different reason, like poor weather.
 
 It is important to enter precise Sampling Periods to understand your sampling effort. Did you not observe black bears before lunch because there were no black bears or you didn't sample then? Being able to answer this question in your own context will allow for more valuable insights from your data.
 

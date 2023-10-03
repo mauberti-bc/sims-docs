@@ -13,13 +13,13 @@ The Species Inventory Management System is a web application for managing fish a
 
 {: .note }
 
-> The Species Inventory Management System is under development. Some features described on this site are not yet available.
+> Some features described on this site are being developed and not yet available.
 
 ### Usage
 
 - Submit fish and wildlife data
 - Plan and manage ecological surveys
-- Visualize biodiversity data and sampling information
+- Manage biodiversity data and sampling information
 - Collaborate across organizations
 - Discover ecological projects and build partnerships
 
@@ -27,7 +27,7 @@ The Species Inventory Management System is a web application for managing fish a
 
 The Species Inventory Management System is available to biologists working in collaboration with the Province of British Columbia.
 
-[Learn more about how to start]()
+[Learn more about how to start](/docs/getting-started/)
 
 ### Build further
 

@@ -7,7 +7,7 @@ permalink: /docs/projects
 
 # Projects
 
-Projects are collaborative workspaces for co-managing data from ecological surveys. We recommend reading [Create Projects](/docs/getting-started/create-projects) in the [Getting Started](/docs/getting-started) section before diving into the details of a Project.
+Projects are collaborative workspaces for co-managing data from ecological surveys. We recommend reading [Create Projects](/docs/getting-started/create-projects) in the [Getting Started](/docs/getting-started) section before diving into the details of a Project here.
 
 When you create a Project, you and your team are responsible for managing the information in that Project. As you adjust the expected outcomes and objectives of your work, you should update your Project's details to include the latest, most accurate information. Outdated or misleading information might confuse people who want to build upon your work.
 
@@ -83,7 +83,7 @@ January 3, 2022
 
 > The date when your Project ended
 
-A Project's End Date can be approximate and may be left blank if the Project is ongoing. As collaborative workspaces, Projects are not expected to have end dates in the same way that [Surveys]() do.
+A Project's End Date can be approximate and may be left blank if the Project is ongoing. As collaborative workspaces, Projects are not expected to have end dates in the same way that [Surveys](/docs/surveys) do.
 
 #### Example
 
@@ -95,7 +95,7 @@ March 20, 2023
 
 > Users who have been granted access to the Project
 
-Project Members can view all information in a Project. A person must gain access to the system before they can be invited to a Project.
+Project Members can view all information in a Project. A person must gain access to the system before they can be a Project member.
 
 #### Example
 
@@ -112,3 +112,7 @@ Available roles are Coordinator, Collaborator, and Observer. Coordinators can up
 #### Example
 
 Coordinator
+
+<a class="float-right" href="./surveys">
+Next: Surveys
+</a>

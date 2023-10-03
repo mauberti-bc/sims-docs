@@ -14,7 +14,7 @@ You can add Species Observations to describe where and when you saw various spec
 
 Species Observations are explicit counts of species, ideally at a known time and location. If you did not identify the species, you can enter the lowest-ranking taxonomic group that you did identify, such as a genus or family.
 
-The core parts of a Species Observation include:
+The core information in a Species Observation includes:
 
 - Species
 - Count
@@ -23,7 +23,7 @@ The core parts of a Species Observation include:
 
 You must enter a species and count for every Species Observation, but the date, time, and location are optional. This is because you might not record the time or location of every animal that you observe, either because your Sampling Method doesn't require it or for another reason, like a malfunctioning GPS.
 
-Species Observations without location information will appear on a map with the geometry of their Sampling Location. Similarly, when searching for Species Observations between two dates, you will see records with no time information if those records' Sampling Periods overlap the dates that you're searching for. These features ensure that all of your Species Observations are discoverable.
+Species Observations without location information will appear on maps with the geometry of their Sampling Location. Similarly, when searching for Species Observations between two dates, you will see records with no time information if those records' Sampling Periods overlap the dates that you're searching for. These features ensure that all of your Species Observations are discoverable.
 
 ### Subcounts
 

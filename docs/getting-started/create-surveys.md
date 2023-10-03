@@ -14,7 +14,7 @@ Surveys contain information about distinct work activities and are made to refle
 
 You should think of a Survey as a distinct event during which you collected data, typically with a clear start and end date. Conducting a week-long population count, deploying a set of camera traps for one month, and deploying a dozen telemetry devices are all events that you should create Surveys for.
 
-Survey dates intend to capture the time period during which you actively worked towards achieving your Project's objectives, not your precise sampling time periods. The type of work that you do might influence how you interpret Survey start and end dates:
+Survey dates intend to capture the time period during when you actively worked towards achieving your Project's objectives, not your precise sampling times. The type of work that you do might influence how you interpret Survey start and end dates:
 
 - If you collected all data during one fieldwork trip, your Survey start and end dates might be when you arrived at and departed from your fieldwork destination.
 - If you collected data during multiple fieldwork trips in quick succession, your Survey start and end dates might be the start of your first trip and end of your last trip.
