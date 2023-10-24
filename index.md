@@ -9,11 +9,11 @@ permalink: /
 
 ### Collaboratively manage biodiversity data
 
-The Species Inventory Management System is a web application for managing fish and wildlife data in British Columbia. It is designed to make it easy to organize and share information about ecological surveys, species observations, and individual animals with team members from multiple agencies, including First Nations, industry, and consultancies.
+The Species Inventory Management System is a web application for managing fish and wildlife data in British Columbia. It is designed to make it easy to organize and share information about ecological surveys, species observations, and individual animals with team members from multiple agencies.
 
 {: .note }
 
-> Some features described on this site are being developed and not yet available.
+> 🚧 The Species Inventory Management System is under construction! Not all features have been released. We welcome requests for new features.
 
 ### Usage
 

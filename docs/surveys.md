@@ -7,15 +7,15 @@ permalink: /docs/surveys
 
 # Surveys
 
-Surveys represent distinct events during which you collected data, often reflecting true ecological surveys. We recommend reading [Create Surveys](/docs/getting-started/create-projects) in the [Getting Started](/docs/getting-started) section before reading about the exact information in a Survey.
+Surveys represent distinct events during which you collected data, often reflecting true ecological surveys.
 
-To start managing data, you'll create a Survey. Surveys have metadata that gives important context to the data they contain. For example, Survey metadata describes your focal species, parts of your sampling strategy, and who participated.
+After creating a Project, you can create a Survey. Surveys have metadata that gives important context to the data they contain. For example, Survey metadata describes your focal species, parts of your sampling strategy, and who was involved
 
-This page defines the attributes that a Survey can have. We recommend reading about each attribute, even if its definition seems obvious, to better understand how to create informative Surveys.
+This page defines the attributes that a Survey can have. We recommend reading about each attribute, even if its definition seems obvious, to better understand how Surveys are structured.
 
 {: .note }
 
-We suggest reading all of the [Getting Started]() section for an introduction to managing data in the Species Inventory Management System.
+The [Getting Started](/docs/getting-started/create-surveys) section provides an introduction to managing Surveys.
 
 ---
 
@@ -23,7 +23,9 @@ We suggest reading all of the [Getting Started]() section for an introduction to
 
 > A unique ID that identifies a Survey
 
-Every Survey is automatically assigned a unique Survey ID. Survey IDs are positive integers. You can find a Survey's ID in the browser URL when viewing that Survey. For example, _sims.nrs.gov.bc.ca/admin/projects/1/surveys/2/details_ is Survey ID 1.
+Every Survey is automatically assigned a unique Survey ID. Survey IDs are positive integers.
+
+You can find a Survey's ID in the browser URL when viewing that Survey. For example, https://sims.nrs.gov.bc.ca/admin/projects/1/surveys/2/details is Survey ID 2.
 
 #### Example
 
@@ -59,7 +61,7 @@ Habitat Restoration & Enhancement, Salvage, and Monitoring
 
 > The date when your Survey began
 
-A Survey's Start Date should be as accurate as possible. You can include travel days and planning effort in determining your Start Date, depending on the nature of your Survey.
+A Survey's Start Date should be precise. You can include travel days and planning time to determine your Start Date, depending on the nature of your Survey.
 
 #### Example
 
@@ -71,7 +73,7 @@ January 3, 2022
 
 > The date when your Survey ended
 
-A Survey's End Date should be as accurate as possible. You can include travel days and planning effort in determining your End Date, depending on the nature of your Survey.
+A Survey's End Date should be precise. You can include travel days and planning time to determine your End Date, depending on the nature of your Survey.
 
 #### Example
 

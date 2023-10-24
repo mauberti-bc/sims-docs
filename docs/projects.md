@@ -7,15 +7,15 @@ permalink: /docs/projects
 
 # Projects
 
-Projects are collaborative workspaces for co-managing data from ecological surveys. We recommend reading [Create Projects](/docs/getting-started/create-projects) in the [Getting Started](/docs/getting-started) section before diving into the details of a Project here.
+Projects are collaborative workspaces for co-managing data from ecological surveys.
 
 When you create a Project, you and your team are responsible for managing the information in that Project. As you adjust the expected outcomes and objectives of your work, you should update your Project's details to include the latest, most accurate information. Outdated or misleading information might confuse people who want to build upon your work.
 
-This page defines the attributes that a Project has to help you manage Projects effectively. We suggest reading about each attribute, even if its definition seems obvious, to better understand a Project's structure.
+This page defines the attributes that a Project can have. We suggest reading about each attribute, even if its definition seems obvious, to better understand how Projects are structured.
 
 {: .note }
 
-We suggest reading all of the [Getting Started]() section for an introduction to managing data in the Species Inventory Management System.
+The [Getting Started](/docs/getting-started/create-projects) section provides an introduction to managing Projects.
 
 ---
 
@@ -23,7 +23,9 @@ We suggest reading all of the [Getting Started]() section for an introduction to
 
 > A unique ID that identifies a Project
 
-Every Project is automatically assigned a unique Project ID. Project IDs are positive integers. You can find a Project's ID in the browser URL when viewing that Project. For example, _sims.nrs.gov.bc.ca/admin/projects/1/details_ is Project ID 1.
+Every Project is automatically assigned a unique Project ID. Project IDs are positive integers.
+
+You can find a Project's ID in the browser URL when viewing that Project. For example, https://sims.nrs.gov.bc.ca/admin/projects/1/details is Project ID 1.
 
 #### Example
 
@@ -103,11 +105,15 @@ John Doe
 
 ---
 
-##### Roles
+##### Project Roles
 
 > Titles assigned to Project Members that determine their permissions in the Project
 
-Available roles are Coordinator, Collaborator, and Observer. Coordinators can upload and edit data, manage the members of a Project, and even delete the Project. Collaborators can add and edit data but cannot manage the list of Project members nor delete the Project. Observers can only view data.
+Available Project Roles are Coordinator, Collaborator, and Observer.
+
+- Coordinators can upload and edit data, manage the members of a Project, and even delete the Project.
+- Collaborators can add and edit data but cannot manage the list of Project members nor delete the Project.
+- Observers can only view data.
 
 #### Example
 
